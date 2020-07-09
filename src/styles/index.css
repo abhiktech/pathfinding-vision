@@ -4,14 +4,15 @@ body {
     font: 14px "Century Gothic", Futura, sans-serif;
     background-color:#fbe3e8;   
     margin: 0px;
-    padding: 0px;  
+    padding: 0px;
+    overflow-x: hidden;  
   }
   
 
   .board {
     position: absolute;
-    left: 10%;
-    top: 18%;
+    left: 15%;
+    top: 20%;
     margin: auto;
     width: 100%;
   }
@@ -32,12 +33,12 @@ body {
     font-size: 24px;
     font-weight: bold;
     line-height: 34px;
-    height: 31px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 31px;
+    height: 28px;
+    width: 28px;
   }
   
   .square:focus {
