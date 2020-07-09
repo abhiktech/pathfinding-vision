@@ -1,0 +1,206 @@
+/*Legend portion stylng*/
+
+.legend {
+    float: left;
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+
+.bluebox {
+    background-color:blue;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .greenbox {
+    background-color:green;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 200px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .greybox {
+    background-color:grey;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .yellowbox {
+    background-color:yellow;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 600px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .vbox1 {
+    background-color:#FF9AA2;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 800px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .vbox2 {
+    background-color:#FFB7B2;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 850px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .vbox3 {
+    background-color:#FFDAC1;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 900px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .vbox4 {
+    background-color:#E2F0CB;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 950px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .whitebox {
+    background-color: white;
+    border: 2px solid #999;
+    float: left;
+    position: absolute;
+    left: 1150px;
+    top: 7px;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 31px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 31px;
+  }
+
+  .t1 {
+    float: left;
+    position: absolute;
+    top: 7px;
+    left: 70px;
+  }
+
+  .t2 {
+    position: absolute;
+    top: 7px;
+    left: 270px;
+  }
+
+  .t3 {
+    position: absolute;
+    top: 7px;
+    left: 470px;
+  }
+
+  .t4 {
+    position: absolute;
+    top: 7px;
+    left: 670px;
+  }
+
+  .t5 {
+    position: absolute;
+    top: 7px;
+    left: 1020px;
+  }
+
+  .t6 {
+    position: absolute;
+    top: 7px;
+    left: 1220px;
+  }
