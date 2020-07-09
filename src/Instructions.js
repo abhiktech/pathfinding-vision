@@ -41,9 +41,8 @@ class Instructions extends React.Component {
                 You may use any of the these features by marking the checkboxes on the top right corner.</li>
                 </ol>
             </div>
+            <p>You can check the source code on <a href="https://github.com/abhiktech/pathfinding-vision" target ="_blank">github</a>.</p>
             <h4>Let's start envisioning!</h4>
-
-            
           </div>
       );
     }
