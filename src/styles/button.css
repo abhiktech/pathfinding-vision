@@ -1,7 +1,6 @@
 /*Button styling*/
 
 .header {
-  overflow: hidden;
   background-color:#e8f9fd;
   padding: 20px 10px;
   position: absolute;
@@ -22,7 +21,7 @@
   float: right;
   position: relative;
   bottom: 21px;
-  right: 35px;
+  right: 10px;
 }
 
 .findButton {
