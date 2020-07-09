@@ -4,8 +4,7 @@ body {
     font: 14px "Century Gothic", Futura, sans-serif;
     background-color:#fbe3e8;   
     margin: 0px;
-    padding: 0px;
-    overflow-x: hidden;
+    padding: 0px;  
   }
   
 
@@ -14,7 +13,7 @@ body {
     left: 10%;
     top: 18%;
     margin: auto;
-    width: 90%;
+    width: 100%;
   }
   .board-row:after {
     clear: both;
