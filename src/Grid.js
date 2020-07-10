@@ -72,7 +72,7 @@ class Grid extends React.Component {
   }
 
   //Handles callback event when the board is reset
-  handleReset() { 
+  handleReset() {
     if(!solving) {
       resetStartEnd();
       grid = Array(800).fill(null);

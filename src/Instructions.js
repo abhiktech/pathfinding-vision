@@ -34,14 +34,14 @@ class Instructions extends React.Component {
                 <li>You may reposition a node by clicking on it and then clicking on an unvisited node.</li>
                 <li>Solve the current grid using any of the five algorithms : <b>Breadth First Search, Depth First Search, Djikstra's Algorithm, Bellman-Ford Algorithm, or A* Search Algorithm.</b></li>
                 <li>You may clear the current path or the current board after solving.</li>
-                <li>Advanced features (recommended) include - <ul><li>Enabling obstacles upon hovering over the nodes.</li>
+                <li>Advanced features (recommended) include: <ul><li>Enabling obstacles upon hovering over the nodes.</li>
                                                 <li>Enabling diagonals in the calculated path.</li>
                                                 <li>Seeing the algorithm's step-by-step working.</li>
                                                 </ul>
                 You may use any of the these features by marking the checkboxes on the top right corner.</li>
                 </ol>
             </div>
-            <p>You can check the source code on <a href="https://github.com/abhiktech/pathfinding-vision" target ="_blank">github</a>.</p>
+            <p>You can even check out the source code on <a href="https://github.com/abhiktech/pathfinding-vision" target ="_blank">github</a>.</p>
             <h4>Let's start envisioning!</h4>
           </div>
       );

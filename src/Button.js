@@ -6,8 +6,9 @@ let algo;
 class Button extends React.Component {
     render() {
         return (
+        <div>
         <div className="header">
-            <span className="title">PathFinding Vision</span>
+            <span className="title"><b>PathFinding Vision</b></span>
             <button className="findButton" onClick={ () => {
                 algo = 1;
                 this.props.onClick()}}>
@@ -39,6 +40,7 @@ class Button extends React.Component {
             <button className="findButton" onClick={ () => this.props.onReset()}>
                 Reset Board
             </button>
+            </div>
             <div className="check">
                 <div><input type="checkbox" onClick={ () => this.props.onHover()}/> Enable obstacles upon hover</div>
                 <div><input type="checkbox" onClick={ () => this.props.onDiagonal()}/> Enable diagonals in path</div>
