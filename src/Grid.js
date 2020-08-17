@@ -130,6 +130,7 @@ class Grid extends React.Component {
     //Deals with invalid grid
     if(!(start && end)) {
       this.setState({squares: grid});
+      solving = false;
       alert('You must choose a start and an end!');
       return;
     }
