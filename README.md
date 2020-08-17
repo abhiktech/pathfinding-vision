@@ -1,68 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PathFinding Vision
 
-## Available Scripts
+Background :
+Before I started working on this project, I realized that I wanted to implement something that had a real-world application. When I was learning data structures and algorithms, I came across Graph Theory, and I was intrigued. I was mesmerized by the complexity but also the practical applications of Graph Theory, especially path finding algorithms. Eager to master these concepts and showcase my understanding, I decided to develop this project using React.
 
-In the project directory, you can run:
+Project Timeline :
+It took me around 1 month to complete this project.
+- 10 days to gain a strong grasp of Graph Theory
+- 5 days to learn React fundamentals
+- 15 days for coding, debugging, testing, optimizing, and documenting
 
-### `npm start`
+Algorithms Implemented :
+- Breadth First Search
+- Depth First Search
+- Djikstra's Algorithm
+- Bellman-Ford Algorithm
+- A* Search Algorithm
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Challenges Associated :
+- Graph Theory (along with Dynamic Programming) is arguably one of the harder sections of data structures and algorithms. It took a good amount of effort to master it within a restricted timeframe.
+- As I did not have any prior working experience with React, I constantly came across issues during the development process. But thank god for stackoverflow! In general, React's confusing asynchronous programming and difficult component reusability constantly posed issues.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Result :
+I am very happy with the way this project turned out. My goal was to not only develop a more practical and applicable project, but also to make it as interactive and accessible as possible, which I have endeavoured my best to accomplish.
 
-### `npm test`
+I hope you enjoy this project. To report any bugs/recommendations feel free to contact me at :
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- abhikmaz@umich.edu
+- https://www.linkedin.com/in/abhik-mazumder-46b03619a/

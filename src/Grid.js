@@ -146,6 +146,7 @@ class Grid extends React.Component {
       solvable = aStarMain();
     }
       let i = 0;
+      let time = (algo == 4)? 5 : 10;
       //Displaying the result
       if(working) {
         let handle = setInterval(function() {
@@ -164,7 +165,7 @@ class Grid extends React.Component {
             }
             solving = false;
           }
-        }, 10);
+        }, time);
       } else {
         if(solvable) {
           for(let i = finalPath.length - 1; i >= 0; i = i - 2) {
